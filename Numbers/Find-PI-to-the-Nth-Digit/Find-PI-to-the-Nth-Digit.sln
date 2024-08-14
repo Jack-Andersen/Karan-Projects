@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34701.34
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Find-PI-to-the-Nth-Digit", "Find-PI-to-the-Nth-Digit\Find-PI-to-the-Nth-Digit.csproj", "{03CF798D-1636-4BF8-A641-FB78B5DAFC40}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03CF798D-1636-4BF8-A641-FB78B5DAFC40}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03CF798D-1636-4BF8-A641-FB78B5DAFC40}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03CF798D-1636-4BF8-A641-FB78B5DAFC40}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03CF798D-1636-4BF8-A641-FB78B5DAFC40}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E02F348-65E5-40DE-B285-BCBC92F26E62}
+	EndGlobalSection
+EndGlobal
